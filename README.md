@@ -10,7 +10,7 @@ Lógica de programação: explore funções e listas
 | -------------  | --- |
 | :sparkles: Nome        | **Jogo do Número Secreto | Alura**
 | :label: Tecnologias | html, css, javascript (tecnologias utilizadas)
-| :rocket: URL         | https://arturhsilva.github.io/JogoDoNumeroSecreto
+| :rocket: URL         | https://jogo-do-numero-secreto-sandy-five.vercel.app
 | :fire: Desafio     | Criação do Jogo da Senha Secreta com Utilização de Funções e Listas
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
