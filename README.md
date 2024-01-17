@@ -14,4 +14,4 @@ Lógica de programação: explore funções e listas
 | :fire: Desafio     | Criação do Jogo da Senha Secreta com Utilização de Funções e Listas
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://github.com/arturhsilva/JogoDoNumeroSecreto/blob/main/LogicaDeProgramação-explore-funcoes-e-listas.png?text=capa-do-projeto#vitrinedev)
+![](https://github.com/arturhsilva/JogoDoNumeroSecreto/blob/main/LogicaDeProgramacao-explore-funcoes-e-listas.png?text=capa-do-projeto#vitrinedev)
